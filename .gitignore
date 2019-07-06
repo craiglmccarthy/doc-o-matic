@@ -1,0 +1,7 @@
+.vscode
+venv
+__pycache__
+marc_files
+assets/temp.pdf
+build
+dist
