@@ -1,6 +1,6 @@
 # Doc-o-matic
 
-Automated production of MARC 21 skeleton records from pdf documents.
+Automated production of MARC 21 catalogue records from pdf documents.
 
 This was built as an automation tool to speed up the cataloguing process of 
 predictable documents.
